@@ -1,2 +1,2 @@
 # amoore83
- Class Ex1
+ Class1 EX
