@@ -1,2 +1,2 @@
 # amoore83
- Class1 EX
+ CLass Exercise1
